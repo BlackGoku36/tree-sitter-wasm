@@ -42,21 +42,5 @@
   },
   "dependencies": {
     "nan": "^2.15.0"
-  },
-  "tree-sitter": [
-    {
-      "scope": "source.wat",
-      "file-types": [
-        "wat"
-      ],
-      "path": "wat"
-    },
-    {
-      "scope": "source.wast",
-      "file-types": [
-        "wast"
-      ],
-      "path": "wast"
-    }
-  ]
+  }
 }
